@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.main-div {
+    width: 450px;
+    height: auto;
+    margin-top: 60px;
+    background-color: white;
+    margin-bottom: 40px;
+}
+
+.img {
+    width: 100%;
+}
+
+.icons {
+    margin: 10px 15px 20px 15px;
+}
+.icon-right {
+    position: relative;
+    display: inline;
+    left: 74%;
+}
+
+.header-div, .header-left {
+    display: inline-flex;
+    margin: 5px;
+    width: 100%;
+}
+
+.header-right {
+    display: flex;
+    margin: 5px;
+    right: 74%;
+}
+
+p {
+    margin: 18px;
+    font-size: 0.8rm;
+}
+.header-left p {
+    margin: 0;
+    margin-left: 10px;
+    font-size: 0.7,3rem;
+    text-align: justify;
+}
