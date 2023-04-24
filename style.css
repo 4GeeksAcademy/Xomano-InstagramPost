@@ -26,7 +26,7 @@ body {
 .icon-right {
     position: relative;
     display: inline;
-    left: 74%;
+    left: 73%;
 }
 
 .header-div, .header-left {
@@ -45,9 +45,14 @@ p {
     margin: 18px;
     font-size: 0.8rm;
 }
+
 .header-left p {
     margin: 0;
     margin-left: 10px;
     font-size: 0.7,3rem;
     text-align: justify;
+}
+
+span {
+    margin: 2px;
 }
